@@ -2,6 +2,7 @@
 
 # dependencies
 /node_modules
+/hello-react-env
 /.pnp
 .pnp.js
 
